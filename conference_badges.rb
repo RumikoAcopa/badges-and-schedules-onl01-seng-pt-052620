@@ -22,5 +22,5 @@ def printer(attendees)
 end
 assign_rooms(attendees).collect do |value|
   puts value
-end 
+end
 end
